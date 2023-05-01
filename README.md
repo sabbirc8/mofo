@@ -1,1 +1,1 @@
-Clarify triton server boolean value (#8532)
+* fix for predicting with batch_size > 1
