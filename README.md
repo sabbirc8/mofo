@@ -1,1 +1,1 @@
-Optimize TFJS export on ARM64 (#8946)
+Update format.yml to pull_request_target (#7460)
