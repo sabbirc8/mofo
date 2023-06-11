@@ -1,1 +1,1 @@
-Updating a typo on paddlepaddle.md (#9108)
+Fix cmake requirements for ARM64 (#8589)
