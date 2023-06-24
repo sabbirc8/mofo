@@ -1,1 +1,1 @@
-Fix Neural Magic links (#9144)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
