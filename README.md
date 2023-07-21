@@ -1,1 +1,1 @@
-ultralytics 8.1.8 new model.save('filename.pt') method (#7886)
+ultralytics 8.0.236 dataset semantic & SQL search API (#7136)
