@@ -1,1 +1,1 @@
-Add TensorBoard Docs integrations page (#7248)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
