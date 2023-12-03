@@ -1,1 +1,1 @@
-OBB: update metrics (#7593)
+ultralytics 8.1.26 LoadImagesAndVideos batched inference (#8817)
