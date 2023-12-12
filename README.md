@@ -1,1 +1,1 @@
-Adds toggle displaying labels in GUI and verbose log on start (#7804)
+Add KaTeX support + updates to YOLOv9 model page (#8531)
