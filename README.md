@@ -1,1 +1,1 @@
-Add PaddlePaddle Docs Integrations Page (#8858)
+Add YOLOv8 LibTorch C++ inference example (#7090)
