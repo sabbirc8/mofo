@@ -1,1 +1,1 @@
-Update H1 in Explorer API docs (#7813)
+Add object blurring & object cropping modules in Ultralytics docs (#7434)
