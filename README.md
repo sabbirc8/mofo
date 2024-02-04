@@ -1,1 +1,1 @@
-ultralytics 8.1.15 add Python 3.12 compatibility (#8210)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
