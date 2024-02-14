@@ -1,1 +1,1 @@
-Fix heatmaps width-height order bug (#7184)
+Fix TypeError in check_cfg() (#9245)
