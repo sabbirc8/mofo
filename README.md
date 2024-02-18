@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+Add simple-utilities.md Docs page (#8269)
