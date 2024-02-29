@@ -1,1 +1,1 @@
-Add new YOLOv8 OBB model metrics (#7379)
+Avoid creating -hub dir without processing images (#8334)
