@@ -1,1 +1,1 @@
-ultralytics 8.0.226 Validator Path and Tuner space (#6901)
+Bump nick-invision/retry from 2 to 3 in /.github/workflows (#8023)
