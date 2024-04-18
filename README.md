@@ -1,1 +1,1 @@
-Update docs building code (#7601)
+ultralytics 8.1.26 LoadImagesAndVideos batched inference (#8817)
