@@ -1,1 +1,1 @@
-Update IoU capitalization (#8604)
+docs: update view-results-in-terminal.md (#66)
