@@ -1,1 +1,1 @@
-Capitalize OBB acronym (#7383)
+Optimize function calls to method calls (#8507)
