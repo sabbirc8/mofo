@@ -1,1 +1,1 @@
-Add OBB save_txt feature (#7450)
+Expand Model method type hinting (#8279)
