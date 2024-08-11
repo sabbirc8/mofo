@@ -1,1 +1,1 @@
-Update CI.md with CI links (#8786)
+Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
