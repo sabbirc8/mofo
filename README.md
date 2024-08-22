@@ -1,1 +1,1 @@
-Add Neural Magic Docs integrations page (#7234)
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
