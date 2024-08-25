@@ -1,1 +1,1 @@
-fix export tensorrt with dynamic size
+Fixed dataloader CPU bottleneck for small batch sizes (#7659)
