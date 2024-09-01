@@ -1,1 +1,1 @@
-Docs updates: Add Explorer to tab, YOLOv5 in Guides and Usage in Quickstart (#7438)
+Add HeatMap guide in real-world-projects + Code in Solutions Directory (#6796)
