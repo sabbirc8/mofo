@@ -1,1 +1,1 @@
-fix export tensorrt with dynamic size
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)
