@@ -1,1 +1,1 @@
-More robust PNNX downloads (#8866)
+ultralytics 8.0.228 add training time argument (#7054)
