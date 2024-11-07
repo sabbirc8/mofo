@@ -1,1 +1,1 @@
-Add OBB models to GITHUB_ASSET_NAMES (#7425)
+Add PR Summary step to Ultralytics Actions (#7675)
